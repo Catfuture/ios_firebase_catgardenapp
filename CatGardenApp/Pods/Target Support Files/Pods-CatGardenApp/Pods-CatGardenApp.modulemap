@@ -1,0 +1,6 @@
+framework module Pods_CatGardenApp {
+  umbrella header "Pods-CatGardenApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

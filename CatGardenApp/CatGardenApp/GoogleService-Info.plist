@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>504352004006-f5p7teqle9s9qr0lnraegr36qnhqh4a2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.504352004006-f5p7teqle9s9qr0lnraegr36qnhqh4a2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB9py6MimVmI9DYoAh9JTMNcSIaxfKGG1I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>504352004006</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>canhan.CatGardenApp</string>
+	<key>PROJECT_ID</key>
+	<string>catgardent-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>catgardent-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:504352004006:ios:4822031078676feaf76167</string>
+	<key>DATABASE_URL</key>
+	<string>https://catgardent-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
